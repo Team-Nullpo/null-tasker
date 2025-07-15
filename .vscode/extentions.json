@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "biomejs.biome",
+        "dsznajder.es7-react-js-snippets",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "xabikos.javascriptsnippets",
+        "msjsdiag.debugger-for-chrome",
+        "ms-vscode.vscode-typescript-next",
+        "tailwindcss.vscode-tailwindcss"
+    ]
+}
