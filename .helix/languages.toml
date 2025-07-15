@@ -1,0 +1,27 @@
+[language-server]
+biome = { command = "biome", args = ["lsp-proxy"] }
+
+[[language]]
+name = "javascript"
+auto-format = true
+language-servers = ["typescript-language-server", "biome"]
+
+[[language]]
+name = "typescript"
+auto-format = true
+language-servers = ["typescript-language-server", "biome"]
+
+[[language]]
+name = "tsx"
+auto-format = true
+language-servers = ["typescript-language-server", "biome"]
+
+[[language]]
+name = "jsx"
+auto-format = true
+language-servers = ["typescript-language-server", "biome"]
+
+[[language]]
+name = "json"
+auto-format = true
+language-servers = ["vscode-json-language-server", "biome"]
